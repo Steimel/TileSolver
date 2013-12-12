@@ -1,0 +1,6 @@
+.....abc...baa...abcbaa
+.....bbb...aba...bbbaba
+.....bcb...aaa...bcbaaa
+.....aba...aba...abaaba
+.....bba...bba...bbabba
+.....aaa...bab...aaabab
